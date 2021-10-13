@@ -1,4 +1,4 @@
-## Gabriel Cordeiro
+# Gabriel Cordeiro
 
 <!--
 **hgcordeiro/hgcordeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
